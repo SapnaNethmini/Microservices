@@ -1,0 +1,4 @@
+db.product.find()
+show collections;
+use product-service
+show dbs;
